@@ -1,7 +1,6 @@
 package com.r4mble.scarygrannymod.common.item;
 
 import com.r4mble.scarygrannymod.ScaryGrannyMod;
-import com.r4mble.scarygrannymod.common.ModItemTabs;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.Tiers;
